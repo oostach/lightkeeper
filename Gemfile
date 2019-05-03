@@ -9,7 +9,7 @@ gem 'puma', '~> 3.11'
 gem 'webpacker'
 gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
-
+gem 'slim'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 
