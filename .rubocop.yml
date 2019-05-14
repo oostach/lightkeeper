@@ -1,0 +1,15 @@
+AllCops:
+  Exclude:
+    - 'bin/**/*'
+    - 'db/schema.rb'
+    - 'node_modules/**/*'
+    - 'config/application.rb'
+
+Metrics/LineLength:
+  Max: 120
+
+Bundler/OrderedGems:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
