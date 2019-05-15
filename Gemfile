@@ -12,6 +12,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'jbuilder', '~> 2.5'
 gem 'webpacker'
 gem 'slim'
+gem 'simple_form'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 
